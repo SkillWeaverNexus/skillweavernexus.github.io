@@ -1,0 +1,61 @@
+:::{glossary}
+Minimum Allocation
+: To learn a skill in a tier N of a skill tree, you must have put N skill points into tier N-1.
+:::
+
+
+:::{glossary}
+Skill Point
+: Earned in play for heroic actions, combat sucess, clever roleplay, or milestones. Used to obtain new abilities
+:::
+
+:::{glossary}
+Skill Tree
+: Each core skill has a list of abilities separated into tiers; working up a tree unlocks more powerful abilities.
+:::
+
+:::{glossary}
+Core Skill
+: One of Physicality, Nature, Perception, Stealth, Personality, and Reasoning. A core skill has a particular die associated, from d4 - d12.
+:::
+
+:::{glossary}
+Physicality
+: A {term}`Core Skill` focused on physical exertion, like sprinting, endurance, strength, or acrobatics. Combat focuses on heavier weapons.
+:::
+
+
+:::{glossary}
+Reasoning
+: A {term}`Core Skill` focused on logic, investigation, and arcana. Combat focuses on magical implements.
+:::
+
+:::{glossary}
+Nature
+: A {term}`Core Skill` focused on plants, animals, natural magic, and healing magic. Combat focuses on potions/decoctions/alchemical bombs.
+:::
+
+:::{glossary}
+Stealth
+: A {term}`Core Skill` focused on various means of going undetected. Combat focuses on light weapons.
+:::
+
+:::{glossary}
+Personality
+: A {term}`Core Skill` focused on charisma, persuasion, and insight into others. Combat focuses on finesse weapons.
+:::
+
+:::{glossary}
+Perception
+: A {term}`Core Skill` focused on the senses and ability to vigilantly observe. Combat focuses on ranged weapons.
+:::
+
+:::{glossary}
+Ability
+: A modular, self contained mechanical ability found in the {term}`Skill Tree` for the {term}`Core Skill`s. 
+:::
+
+:::{glossary}
+Downtime
+: A period of 
+:::

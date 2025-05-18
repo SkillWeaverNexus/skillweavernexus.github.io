@@ -1,0 +1,13 @@
+# Character Origins
+
+Origins are special examples of {term}`Skill Tree` {term}`Abilities <Ability>`. They cost 5 {term}`Skill Points <Skill Point>`, where most abilities cost 1-2, but they have considerable breadth, and are a great way to develop your backstory. 
+
+Each {term}`Core Skill` in SWN has 4 origins to choose from, and supplementary settings may provide additional choices. Unlike a class or subclass, origins define *where you came from*, not necessarily where you are going. They are designed to give you some cool starting abilities and potential build directions, but are compact enough that choosing one does not lock your build into any particular direction. In fact, you can even pick up additional origins and work them into your back story, if you so choose. 
+
+## Reasoning Origins
+### Augur
+```{image} https://github.com/rowanc1/pics/blob/main/grapes-wide.png?raw=true
+:alt: Grapes on a vineyard
+:width: 500px
+:align: center
+```

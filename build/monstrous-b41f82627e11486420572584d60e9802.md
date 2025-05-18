@@ -1,0 +1,40 @@
+# Monstrous 
+
+![](/img/origins/monstrous-copy.png)
+
+You have a lineage leading to (or some sort of event-triggered) monstrous capabilities. Choose one of the following (or work with your GM to make a new one): 
+
+
+:::{dropdown} Vampiric
+:open:
+You have some level of vampirism. You gain a bite (melee) attack which costs 2 stamina, uses your personality die [13], and deals damage equal to your player level and inflicts the bleeding condition using a d4. You gain the spell Suggest for free, so long as you have the Magic Initiate ability. Your GM may impose sunlight related debuffs.
+:::
+
+:::{dropdown} Were-creature 
+:open: 
+You have some level of lycanthropy. You gain a claw (melee) attack which which costs 2 stamina, uses your Physicality die [13] and deals damage equal to your player level, inflicting the bleeding condition using a d4. Under a full moon or GM-defined natural condition, your damage is doubled and bleed dice moves up 1.
+:::
+
+:::{dropdown} Zombie
+:open: 
+You are at least partially undead. You gain a claw attack which uses your Healing die [13], costs 2 stamina, and deals damage equal to your player level and inflicts the poisoned condition using a d4. You can survive for up to 10 minutes without air to breathe.
+:::
+
+:::{dropdown} Faerie
+:open: 
+You are touched by Fae magic or hail from a fae lineage. You gain a psychic sliver (range 30 ft) attack which costs 2 stamina, uses your Reasoning die [13], and deals damage equal to your player level, inflicting the charmed condition using a d4. You have access to the Minor Invisibility spell, so long as you have the Magic Initiate ability.
+:::
+
+:::{dropdown} Dragonite
+:open:
+You have lineage touched by dragons or a similar creature. You gain a fire breath (range, 15 ft) ability which costs 2 stamina, deals damage equal to your player level and inflicts the burning condition using a d4. You gain access to the Minor Shapeshift spell for free, so long as you have the Magic Initiate ability.
+:::
+
+### Increased Potency
+If your player level reaches 5, your condition die increases from d4 to d6. At level 10, it increases from d6 to d8.
+
+
+:::{tip} _Backstory Hook_
+1. What event or element of your lineage triggered your monstrous origin? 
+2. Are you proud or ashamed of your abilities? Do you hide them or make them obvious to others?
+::: 

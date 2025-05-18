@@ -1,0 +1,16 @@
+# Scholist 
+```{image} /img/origins/scholist.png
+:alt: augur
+:width: 500px
+:align: center
+```
+
+You have earned a reputation as a scholar of note, and your Arcanic Die, if you cast spells, is Arcana. You hold a coveted 
+Scholars Token, which provides access to all but the most exclusive or restrictive libraries. Your skill at researching provides automatic success in finding tomes of particular title author or topic in any well organized repository (e.g., libraries, but not teetering piles of books in an arcane study). You have a major advantage on Investigation checks for finding references or discussion of particulars in any given written work. 
+
+Finally, you choose a specialty: history, cultural practices, arcana, religion, alchemy, or another from options provided by your GM. You have minor advantage when researching or recalling your specialty topic. 
+:::{tip} _Backstory Hooks_
+1. Most scholars earn their token with the publishing of a major thesis. What was yours about? It could be arcane or mundane.
+2. Most scholists studied in a university of some kind --- did you? Or how did you learn what you needed? 
+3. Perhaps you 
+

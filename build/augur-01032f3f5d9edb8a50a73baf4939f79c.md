@@ -1,0 +1,28 @@
+
+#  Reasoning Origins
+## Augur
+```{image} /img/origins/augur_copy.png
+:alt: augur
+:width: 500px
+:align: center
+```
+You have an innate connection to the temporal fabric of reality, and receive prophetic visions and insights from both past and future.
+
+You have 3 vision invocations per full rest.  When facing a challenging situation or important decision, you can invoke a vision as a free action, representing a prophetic glimpse you previously received but couldn't fully interpret until now. Make a d20 roll to determine the clarity and usefulness of your vision. The outcome determines the clarity of your vision, which you can use to guide your next ability check, or to reroll a check immediately after failing. 
+
+ - 1-5 (Clouded): Your vision provides minimal guidance, a flash you can't interpret. If applied to a roll, make it with minor advantage.
+- 6-10 (Partial): You receive a fragmentary insight. If applied to a roll, make it with major advantage.
+- 11-15 (Clear): Your vision provides a clear insight into your situation, granting +5 to an applied role.
+- 16-19 (Vivid): Your vision clarifies into perfect focus, granting +10 to an applied role. 
+- 20 (Prophecy):  Time itself seems to slow as every detail aligns with your vision. You automatically succeed on your next skill check (up to DL 25) or attack roll.
+
+
+You have advantage on checks to use scrying devices, divination focuses, or to interpret prophetic texts. Some rare divinatory artifacts may only function in the hands of an Augur.
+
+:::{tip} _Backstory Hooks_
+1. How did you first discover your prophetic abilities? Was it during a moment of crisis?
+2. Do your visions come as dreams, waking flashes, or through some other medium?
+3. Have you ever been unable to prevent a tragedy you foresaw? How did that affect you?
+4. Do others know about your abilities? How do they react to them?
+5. Is there a specific event in the future that you've glimpsed repeatedly but haven't yet experienced?
+:::

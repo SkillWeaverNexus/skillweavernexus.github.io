@@ -1,0 +1,66 @@
+# Combat 
+
+Combat in SWN is designed to keep everyone engaged with the unfolding battle as much as possible, providing all players with meaningful actions to take both on, and not on, their turns. It also emphasizes strategic and tactical movement and positioning. 
+
+
+
+
+
+
+
+
+
+
+
+\section{Reactions}
+
+
+\section{Combat Awareness and Cover}
+In combat, all sufficiently intelligent creatures have an awareness of where all detectable combatants on the map are, or their last detectable location. For creatures relying on sight, this means all visible creatures not behind cover, and an awareness of the last known location of creatures that become invisible or dart behind solid cover. When a creature or object moves 10ft (2 grid spaces) while out of sight of another creature, their current position is considered “unknown.” This means that immediately upon becoming visible to that creature, reactions cannot be taken against the creature. However, standard actions can be taken against any creature/object with known location. A creature that is visible at the end of a combat turn, or for 10 ft of movement is considered “known” again. 
+
+Cover can be provided either by physical blockages (a pillar, wall, cart, etc.,) or by movement. Cover is divided into half and 3/4th cover, and imposes minor and major disadvantage to hit covered creatures, respectively. Moving is considered half cover against reactionary attacks.
+
+Given the rules of reactions, leaving cover to make attacks will generally expose attackers to reactionary hits. This can be avoided by taking attacks from cover, but to do so while retaining the protection of cover invokes minor disadvantage on the attack roll. 
+
+\begin{rpg-commentbox}
+While direct attacks cannot be made against creatures with unknown locations, they can still be impacted by area affects, potentially revealing their position.
+\end{rpg-commentbox}
+
+Here are a few examples to help understand the awareness rules. 
+\begin{enumerate}
+    \item An enemy archer ducks behind a low wall. On their turn, they pop up 15 feet down the wall and fire. Reactions cannot be taken against thems at this point, because they moved more than 10 ft from their last known position. They then duck back down. On their next turn, they pop up again from the same location to attack — *now,* one can use a reaction (if available) to target them, as their new position is within 10 ft of their last known position.
+    \item An enemy has been hiding behind a pillar on the battlefield. On their turn, they attempt to dart from their pillar to a different pillar 15 ft away. Since their position is known, reactions can be used to fire on them. However, as they are moving, they gain half cover (minor disadvantage to hit them). 
+    \item A spell cast by the party’s mage causes an enemy to lose invisibility. At the moment they appear they are protected from reactionary targeting. If they are still visible at the end of the mage’s turn, they become open to attack. If they use their own reaction to move more than 10ft, this also makes them open to reactionary attacks.
+\end{enumerate}
+
+\subsubsection{Optional: Other Sensory Cover}
+Many TTRPG combat awareness rules depend, by default, on sight. If the DM chooses, rules for targeting and cover can be employed for other senses. But we recommend using only one ruleset at a time (or at least for a given creature), to avoid confusion. 
+\begin{itemize}
+    \item Smell: creatures with incredibly strong scent tracking (and which are, e.g., blind) may use smell to target creatures. For such creatures, chaotic/smelly environments would give other creatures half cover, and hiding in an overwhelmingly strong scent (like a dung heap) would provide a creature 3/4 cover or full cover (i.e., not detectable).
+    \item Sound: for creatures that rely almost entirely on sound, a chaotic/loud environment would provide half cover against them, as would standing perfectly still (leaving only breathing or small movements to be tracked). Not moving, in a noisy environment, would provide 3/4 or/ full cover, at the GM’s discretion.
+\end{itemize}
+
+We do not create rule sets for touch/taste as these are not relevant for determining the location of creatures not in your immediate vicinity in combat.
+
+\section{Combat Equipment}
+All good adventurers need equipment! These range from weapons and armor to tents and packhorses. Here we discuss equipment that is commonly used in combat.
+
+Categories of equipment generally require proficiency in order to be used without a -10 penalty. Proficiency in a weapon type can be acquired from the skill tree of the relevant skill. The following table gives the tree for some common types of weaponry. Beyond proficiency, one can obtain expertise and mastery for most of these categories, which garners additional benefits.
+
+The special skill, Magical Resonance (in the Reasoning Tree) is required to wield any magical weapon and invoke its abilities (one can swing it around like a mundane weapon without this ability). 
+
+\begin{strip}
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{rpg-table-wide}[llX]
+    \textbf{Tree}  & \textbf{Category} & \textbf{Examples} \\
+    Stealth	 & Light Weapons & Daggers, light crossbows, throwing knives\\
+    Physicality	 &Medium, Heavy Martial Weapons  &Shortswords, Longswords, Great Swords, Pikes/Halberds, heavy crossbows\\
+    Nature & Concoctions & Poisons, oils, alchemical bombs, potions \\
+    Perception & Ranged Weapons & Medium crossbows, heavy crossbows, long bows \\
+    Personality & Finesse Weapons & Rapiers, Dual Swords, Whip, Lasso \\ 
+    Reasoning & Magic-tuned Weapons & Staffs, Wands, Orbs, Artifice
+\end{rpg-table-wide}
+\end{strip}
+
+Some equipment will list a Wield Rating (WR) for a particular core skill; this represents the minimum die in that skill needed to use the equipment. For example, a circlet of psychic protection might have a WR of Reasoning 6, but not require proficiency. To use the circlet, one would need to have at least a d6 in the Reasoning stat. 

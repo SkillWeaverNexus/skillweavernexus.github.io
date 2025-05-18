@@ -1,0 +1,5 @@
+# Character Origins
+
+Origins are special examples of {term}`Skill Tree` {term}`Abilities <Ability>`. They cost 5 {term}`Skill Points <Skill Point>`, where most abilities cost 1-2, but they have considerable breadth, and are a great way to develop your backstory. 
+
+Each 
