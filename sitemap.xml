@@ -8,6 +8,45 @@
     <loc>http://localhost:3000/overview</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/rolls</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fortitudes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/downtime</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/health</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/grit</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/status-conditions</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/core-skills</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/nature</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/perception</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/personality</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/physicality</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/reasoning</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/stealth</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/origins</loc>
   </url>
   <url>
@@ -48,45 +87,6 @@
   </url>
   <url>
     <loc>http://localhost:3000/scholist</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/rolls</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/core-skills</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/nature</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/perception</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/personality</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/physicality</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/reasoning</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/stealth</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/fortitudes</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/downtime</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/health</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/grit</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/status-conditions</loc>
   </url>
   <url>
     <loc>http://localhost:3000/combat</loc>
