@@ -1,0 +1,17 @@
+
+
+# Surprise
+
+In the case of ambushes or surprising situations, the GM can determine that there is sufficient cause to grant one party the benefit of surprise. In this case, a surprise round takes place at the start of combat. During a surprise round, any surprised individuals cannot take reactions. The following procedure lays out how to litigate a Surprise round.
+
+
+- First, Initiative is rolled "as normal" and noted for each party in the combat. 
+- During the first turn of the surprise round, one member of the **surprising party** can take their full turn immediately, regardless of the rolled initiative order.
+- During the {term}`Environmental Turn`, all other surprising party members can use their {term}`reactions <Reaction>`, if desired, to trigger effects, make attacks, or otherwise enact the surprising actions. 
+- After the environmental turn, the party with the highest initiative in the initiative order takes their turn (even if it is again the surprising party), and turns proceed in normal initiative order for the rest of the round. While surprised individuals will be able to take their turns (standard actions), they cannot use reactions during this round.
+
+At the top of the round, initiative fully invokes, and the side with the highest initiative proceeds before the environmental round as normal. Combat from here proceeds as normal.
+
+:::{tip}
+A good ambush behaves like part of the environment. Because a surprising party gets 1 turn ()
+:::

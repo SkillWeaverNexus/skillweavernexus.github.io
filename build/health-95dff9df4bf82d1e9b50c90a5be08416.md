@@ -1,0 +1,73 @@
+# Health and Death 
+
+Characters have a pool of **Hit Points** (HP) which describes their vitality and strength to keep fighting. These points represent aspects of many of the core abilities, and no tree is inherently diminished in HP. Players choose to acquire HP as they gain skill points.
+
+All characters start with a base of 10 HP. Whenever you gain a new ability from the skill tree after character creation, you gain 1HP for every skill point spent. 
+
+## Temporary Hit Points
+Some abilities or features grant you or your allies **temporary hit points** (or temp HP). The rules for temp HP are: 
+- Sources of temp HP don't stack, and you can only have one active source of temp HP at a time.
+- Temp HP fade away after 10 minutes.
+- When a situation grants temp HP and you already have active temp HP, you can choose to drop your current temp HP to take on the new set.
+
+
+
+SWN recognizes that heroes are consistently finding themselves in dangerous, deadly situations. On the other hand, narrative-based play isn’t well designed for constant character perma-death, which levies a lot of work on the part of both players and GMs to recreate new characters and build them into the story. This is especially true in SWN, as the ability-acquisition is designed to be organic as you grow as a character. 
+
+SWN defines three key status conditions you can have as you lose more and more HP: Bloodied, Incapacitated, and Dying. 
+
+## Bloodied Condition
+When you drop to or below 10 HP, you are considered Bloodied. When you are Bloodied, your movement is halved and all attacks and ability checks are made at major disadvantage. Any spell cast by you is done for double toxicity cost. If mundane or magical healing bring you above 10 HP, you lose this condition.
+
+
+
+## Incapacitated Condition
+
+When you drop to 0 HP (assuming you do not expend a grit point to stay at 1 HP), you become {term}`Incapacitated`. You can think of this as ``down but not out.''  In SWN, incapacitation means that you are conscious, but too injured to move, defend yourself, take actions, or channel magic. You can, however, 
+
+- discuss tactics with your party, 
+- make perception, personality or reasoning checks,
+- expend one grit point to move up to half your movement distance,
+- expend one grit point to interact with an object
+ 
+    
+Doing so might help your party achieve its objectives even though you can’t fight, or get you close enough to your party to be aided by spells like teleportation. 
+
+When incapacitated, the first healing applied to you can, at maximum, raise you to 10 HP and change your condition to Wounded. Subsequent healing can remove this condition and increase your HP further.
+
+## Dying Condition
+If you take any damage while incapacitated, or fail any imposed fortitude tests, you drop into the Dying condition. You are barely conscious and on the brink of death. During the environmental turn of subsequent rounds of combat, you roll a D20 Fate roll. On a natural 1, you die instantly. On a natural 20, you gasp to consciousness back into the incapacitated state. If you roll a 10-19, there is no additional effect; however, if you roll a 2-9, you pick up an Injury. Injuries might impose a thematic or mechanical disadvantage to your character and can't be healed by normal means (mundane or arcane healing). Instead, they require downtime and a project roll. Your GM may choose to track the number of Injuries you pick up over time, and increase the Project DL for recovery the more often you brush with death.
+
+Any mundane or magical healing applied to a dying creature brings them to the Incapacitated condition and stabilizes them, as does a DL 15 Nature/Body or Nature/Mind check (whichever relevant). However, a creature that has had the Dying condition cannot be healed or stabilized beyond Incapacitation --- only a full rest can bring them from incapacitated to diminished, and another full rest from diminished to full health. 
+
+## Killing Blows
+A killing blow is a special check which costs 6 stamina and attempts to end the life of a creature that is incapacitated. It encompasses things like slitting a throat, cutting into a heart, or other major finishing moves. 
+
+Because of the stamina costs, in most cases it is tactically disadvantageous to attempt killing blows in the middle of a chaotic fight, where you still may need to attack or defend. Of course, a particularly evil or motivated villain may try, but they open themselves up entirely to attack.  Similarly from a player/character perspective, this mechanic may encourage more nuanced roleplay — once the bandits are all incapacitated, do we systematically go through and slit their throats in cold blood? Or maybe think about tying them up and bringing them to the nearby village for a reward?
+
+At climactic moments --- like when a hero strikes the final blow bringing a BBEG to 0 --- a GM can elect to allow the striking player to make their final attack a killing blow, instead of an incapacitating one. 
+
+
+
+## Rest and Recovery
+
+Rest is critical for maintaining health and internal resources. Rather than prescribe a set amount of time that is required to heal up, regain abilities, or lower toxicity, SWN instead assigns a value in marks (or your game’s standard currency) to rest. Longer periods of rest cost less, while attempting to recuperate quickly requires a large investiture in, e.g., healing potions, decoctions, casts/wraps/other equipment, and high quality replenishment.
+
+When a full rest is completed, your HP returns to max, toxicity returns to 0, and grit points reset to max.
+
+You can also choose to take a "half rest", for half the amount of marks specified for a full rest. In this case, you regain 1 grit point, your toxicity is reduced by half, rounded up, and half the amount of hit points needed to reach max HP, rounded down, are gained.
+ 
+:::{admonition} Example
+Tobias has 13/25 HP, toxicity of 4, and 1 grit point. In a half rest, he would end up with 19/25 HP, toxicity of 2, and 2 grit points.
+:::
+
+
+
+In all cases, the steps involved in rest/recuperation involve being safe and out of active combat.
+
+
+## Healing and Toxicity 
+
+Healing via magic --- this includes spells and most potions, which are crafted by arcane means --- heals HP at the expense of a small amount of Arcane Toxicity (see Chapter 4). Because arcane toxicity requires a full rest to reset, this means you can be healed by magic only a certain number of times before you begin suffering adverse effects. 
+
+Arcane healing devices (spells, potions, etc.) will list the arcane toxicity impact on the healed. Certain mundane healing options also exist; they heal far less HP but do not impart toxicity.

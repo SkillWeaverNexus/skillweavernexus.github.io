@@ -1,0 +1,22 @@
+# Defense
+
+When an enemy of some kind chooses to attack you, you have multiple options for how to defend yourself. If an attack roll against you is successful, you have three options for how to defend:
+
+- Take it: absorb the damage. [0 stamina]
+- Parry it: deflect half of the damage [1 stamina]
+- Dodge it: evade the damage entirely [2 stamina]
+
+Remembering that you have 6 stamina to use throughout your turn, choosing to take damage (or parry) might preserve stamina to use in your own attacks and reactions. Armor, discussed below, is oriented around negating some damage at 0 stamina cost (but with increased costs to parry and dodge). Note that if an attack misses you, you do not have to expend stamina attempting a form of defense. 
+
+```{note}
+The rules for defense apply to psychic/mental or internal/magic attacks as well as physical ones. A psychic lance can be parried or dodged by virtue of a steeling of emptying of the mind. Psychic attacks do bypass most armor, though some equipment exists to shield against such attacks.
+```
+
+## Armor 
+
+Armor negates a certain portion of incoming damage as defined by the item. Better armor negates more damage, of more types, and with less of a penalty on other aspects of your combat (such as movement or parry/dodge ability).
+
+Take the simple, `Guardsman's Armor`:
+
+:::{dropdown}
+:open:

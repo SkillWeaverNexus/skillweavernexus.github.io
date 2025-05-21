@@ -14,13 +14,13 @@
     <loc>http://localhost:3000/fortitudes</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/downtime</loc>
+    <loc>http://localhost:3000/grit</loc>
   </url>
   <url>
     <loc>http://localhost:3000/health</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/grit</loc>
+    <loc>http://localhost:3000/downtime</loc>
   </url>
   <url>
     <loc>http://localhost:3000/status-conditions</loc>
@@ -95,6 +95,9 @@
     <loc>http://localhost:3000/stamina</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/initiative</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/attacks</loc>
   </url>
   <url>
@@ -104,16 +107,13 @@
     <loc>http://localhost:3000/reactions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/initiative</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/surprise</loc>
   </url>
   <url>
     <loc>http://localhost:3000/awareness</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/equipment</loc>
+    <loc>http://localhost:3000/combat-equipment</loc>
   </url>
   <url>
     <loc>http://localhost:3000/magic</loc>
@@ -126,6 +126,12 @@
   </url>
   <url>
     <loc>http://localhost:3000/spell-list</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/proficiency</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/equipment</loc>
   </url>
   <url>
     <loc>http://localhost:3000/crafting</loc>

@@ -1,0 +1,20 @@
+# Spell List 
+
+
+
+### Hearths Circle (tox 3) 
+
+
+Casting time: 10 minutes
+
+A warden spell used to protect communities from threat. During the casting, a circle 60 ft in radius must be drawn, dug, or otherwise delineated. The circle has six equally spaced nodes along its circumference defined by the caster. For each meaningful item the community or location being protected placed in a node, there is a positive effect. 
+
+The circle repels ingress by a creature type of your choice, including undead, aberrations, demons, ghosts, or mundane animals, as well as up to three named individuals. Passing into the circle (which is assumed to have impossibly high “walls”) requires a DL15 psychic fortitude test. For each meaningful object in a node of the circle, the DL increases by 1. Creatures that succeed the check and enter the circle take 2d6 radiant damage upon entry. If the circle was constructed using a material the creature is weak to (e.g., salt against demons), the damage is doubled. 
+
+Those within the circle have major advantage to avoid or mitigate harmful test-triggering magic cast into the circle, and the circle’s shimmering boundary provides half cover to those inside, without imposing disadvantages on attacks directed out of the circle. 
+
+The spell costs three stamina to maintain per round and can be held up to an hour. When a creature does break through the circle, the segment between the two nodes it enters becomes dormant. The caster can expend 1 stamina and 1 tox to reseal the segment. 
+:::
+
+
+:

@@ -1,0 +1,41 @@
+# Equipment
+
+Equipment and kits are an important part of many builds. We've already discussed combat equipment; the table is reproduced here for completeness: 
+
+
+| Tree | Category | Examples | 
+| --- | --- | --- |
+|Stealth	 | Light Weapons | Daggers, light crossbows, throwing knives|
+|Physicality	 |Medium, Heavy Martial Weapons  |Shortswords, Longswords, Great Swords, Pikes/Halberds, heavy crossbows|
+|Nature | Concoctions | Poisons, oils, alchemical bombs, potions |
+|Perception | Ranged Weapons | Medium crossbows, heavy crossbows, long bows |
+|Personality | Finesse Weapons | Rapiers, Dual Swords, Whip, Lasso | 
+|Reasoning | Magic-tuned Weapons | Staffs, Wands, Orbs, Artifice |
+
+The Tree listed indicates that the abilities needed to gain proficiency, expertise, and mastery in each weapon category are found in that tree. 
+
+Things in SWN that have the `equipment` tag require proficiency to be used without the standard -10 penalty. 
+
+```{note}
+This is in contrast to the `item` tag, which generally does not require proficiency for use.
+```
+
+## Kits 
+
+There are several kits available in the game. These are considered relatively mundane, potentially expensive, but not rare, and can be reasonably obtained if you do not start with one. The defined kits, which are `equipment`, are
+
+- Alchemist Kit: 
+- Healer's Kit: medical supplies such as bandages, salves, and torniquets, used to administer rapid, if modest, healing. 
+- Trapping Kit: contains tools to facilitate the setting of tripwire alarms, rope/net traps, and mild magical protection.
+- Tradesmith's Toolkit: contains the set of basic, critical tools for a given discipline. Options include:
+    - Blacksmith's tools: Hammer, tongs, quenching oil. If desired, a mobile forge, which is unweildy.
+    - Carpenter's Tools: Basic tools for cutting, sanding, and joining wood.
+    - Jewler's Tools: tweezers, magnifying glass, grinding stone, and reagents that reveal the nature of different gems and stones
+ - Artifice Kit: a unique mix of tools and components used to construct gadgets, particularly with magical properties. 
+ - Mage's Kit: pouches of different natural ingredients that can be used as components in the casting of ritual spells. 
+ 
+
+| Kit | Tree | Description |
+| --- | ---- | ----------- |
+|Alchemy Kit | Nature | vials, beakers, pouches of alchemical ingredients, focused heat devices, and other compoents for the distillation of alchemical products. |
+|Healer's Kit

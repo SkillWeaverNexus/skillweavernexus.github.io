@@ -1,0 +1,21 @@
+# Attacks 
+
+When attempting to make an attack, you will generally have multiple options for how to carry out that attack, given by the weapon or spell being used. These options generally give you the ability to trade stamina for an easier hit or more damage. 
+
+For example, a basic longsword might look something like the following example
+
+
+:::{admonition} Example
+  
+  [1 stamina]: Athl 8 to hit, 1d4+3 physical damage
+  
+  [2 stamina]: 8 to hit, 1d6+3 physical damage
+  
+  [2 stamina]: 6 to hit, 1d4+3 physical damage
+:::
+
+We can see that this weapon has three attack options, a standard, 1 stamina option, and 2 2-stamina options which either increase the damage, or lower the difficulty to hit. 
+
+This general formalism extends to most weapons and spells, giving you as the player consistent flexibility in how you choose to engage in combat, depending on the circumstances. 
+
+Attacks are likely to hit in SWN --- there is a "to hit" target that is determined by your own spells and equipment (not your enemy; there is no concept of an armor class in SWN), requiring an ability check, but as a trained fighter, you should expect to meet this DL most of the time. The mechanic primarily captures your ability to occasionally whiff it super hard. 
